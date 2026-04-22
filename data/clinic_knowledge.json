@@ -1,0 +1,69 @@
+{
+  "clinic_name": "Easy My Care Clinic",
+  "source": {
+    "url": "https://easymycareclinic.com/",
+    "updated_at": "2026-04-22",
+    "notes_en": "Structured from website content snapshot (services listed on site).",
+    "notes_hi": "वेबसाइट पर उपलब्ध सेवा जानकारी के आधार पर संरचित डेटा।"
+  },
+  "services": [
+    {
+      "id": "hypertension-management",
+      "title_en": "Hypertension Management",
+      "title_hi": "हाइपरटेंशन प्रबंधन",
+      "description_en": "Blood pressure risk assessment, DASH diet guidance, medication planning and home BP monitoring support.",
+      "description_hi": "ब्लड प्रेशर जोखिम आकलन, DASH डाइट मार्गदर्शन, दवा योजना और घर पर BP मॉनिटरिंग सहायता।",
+      "keywords_en": ["hypertension", "blood pressure", "bp", "high bp", "dash"],
+      "keywords_hi": ["ब्लड प्रेशर", "बीपी", "हाइपरटेंशन", "उच्च रक्तचाप"]
+    },
+    {
+      "id": "diabetes-management",
+      "title_en": "Diabetes Management",
+      "title_hi": "डायबिटीज प्रबंधन",
+      "description_en": "Risk assessment, A1C and glucose monitoring, personalized plans and medicine guidance for diabetes care.",
+      "description_hi": "जोखिम आकलन, A1C और ग्लूकोज़ मॉनिटरिंग, व्यक्तिगत योजना और दवा मार्गदर्शन के साथ डायबिटीज देखभाल।",
+      "keywords_en": ["diabetes", "sugar", "a1c", "glucose"],
+      "keywords_hi": ["डायबिटीज", "शुगर", "ग्लूकोज़", "एचबीए1सी"]
+    },
+    {
+      "id": "weight-loss-program",
+      "title_en": "Weight Loss Program",
+      "title_hi": "वजन कम करने का कार्यक्रम",
+      "description_en": "Personalized weight management with BMI checks, diet plans, exercise guidance and medical support.",
+      "description_hi": "BMI जांच, आहार योजना, व्यायाम मार्गदर्शन और चिकित्सा सहायता के साथ व्यक्तिगत वजन प्रबंधन।",
+      "keywords_en": ["weight", "obesity", "bmi", "diet"],
+      "keywords_hi": ["वजन", "मोटापा", "बीएमआई", "डाइट"]
+    },
+    {
+      "id": "heart-health",
+      "title_en": "Heart Health and Cardiac Diagnostics",
+      "title_hi": "हृदय स्वास्थ्य और कार्डियक जांच",
+      "description_en": "Heart-focused evaluations including ECG and TMT for rhythm, stress and ischemia screening.",
+      "description_hi": "हृदय की जांच के लिए ECG और TMT जैसी सेवाएं, जिससे रिद्म, स्ट्रेस और इस्कीमिया का आकलन किया जाता है।",
+      "keywords_en": ["heart", "cardiac", "ecg", "tmt"],
+      "keywords_hi": ["हृदय", "हार्ट", "ईसीजी", "टीएमटी"]
+    },
+    {
+      "id": "pft-abpm",
+      "title_en": "PFT and ABPM",
+      "title_hi": "पीएफटी और एबीपीएम",
+      "description_en": "Pulmonary Function Test for lung assessment and 24-hour blood pressure monitoring (ABPM).",
+      "description_hi": "फेफड़ों की जांच के लिए PFT और 24 घंटे ब्लड प्रेशर मॉनिटरिंग के लिए ABPM।",
+      "keywords_en": ["pft", "abpm", "lung", "asthma", "copd"],
+      "keywords_hi": ["पीएफटी", "एबीपीएम", "फेफड़े", "अस्थमा", "सीओपीडी"]
+    },
+    {
+      "id": "lab-and-pharmacy",
+      "title_en": "Lab Tests and Pharmacy",
+      "title_hi": "लैब टेस्ट और फार्मेसी",
+      "description_en": "Diagnostic lab tests, home sample collection and doorstep medicine delivery with online prescription support.",
+      "description_hi": "डायग्नोस्टिक लैब टेस्ट, घर से सैंपल कलेक्शन और ऑनलाइन प्रिस्क्रिप्शन के साथ दवाइयों की होम डिलीवरी।",
+      "keywords_en": ["lab", "test", "pharmacy", "medicine", "home collection"],
+      "keywords_hi": ["लैब", "टेस्ट", "फार्मेसी", "दवा", "होम कलेक्शन"]
+    }
+  ],
+  "contact": {
+    "en": "You can book appointments and service requests through the Easy My Care Clinic website and WhatsApp support.",
+    "hi": "अपॉइंटमेंट और सेवा अनुरोध Easy My Care Clinic वेबसाइट और WhatsApp सपोर्ट के माध्यम से किए जा सकते हैं।"
+  }
+}
